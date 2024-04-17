@@ -2,12 +2,12 @@
 
 > Solving the bus routing problem using Ant Colony Optimisation techinique.
 
-The objective function will be to minimize the distance travelled by bus within the UiTM bus route C, which covers 14 different bus stop locations. The shortest overall distance will be calculated to obtain the optimum route for achieving the objective.
+The objective function will be used to minimize the distance travelled by bus within the UiTM bus route C, which covers 14 different bus stop locations. The shortest overall distance will be calculated to obtain the optimum route for achieving the objective.
 
 To calculate the shortest distance, we will use Pythagoras Theorem as the objective is distnace-related.
 
 ## Technologies & Libraries
-* Python 3.10.13
+* Python 3.10
 * Visual Studio Code
 * Matplotlib
 * Random
